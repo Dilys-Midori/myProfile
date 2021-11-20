@@ -1,0 +1,25 @@
+@media (max-width:600px){
+    .main-profile{
+        padding-left: 0;
+    }
+    .profile-section{
+        width: 100%;
+    }
+}
+@media (max-width:375px) {
+    .profile-section{
+        height: 500px;
+    }
+    .main-profile{
+        padding-top: 5rem;
+    }
+}
+@media (width:414px){
+    .main-profile{
+        padding-top:25%;
+    }
+    .profile-section{
+        height: 500px;
+    }
+
+}
