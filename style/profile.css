@@ -161,7 +161,6 @@ font-family: sans-serif;
 font-weight: 600;
 margin-top: 5px;
 }
-
 .history{
 margin-top: 10px;
 }
@@ -174,7 +173,7 @@ font-size: 20px;
 border-radius: 50%;
 }
 .info{
-display: flex;
+  display: flex;
 flex-direction: row;
 justify-content: space-around;
 padding-top: 20px;
@@ -194,7 +193,6 @@ box-shadow:3px 3px 6px rgba(0, 0, 0, 0.6),2px 2px 7px rgba(0, 0, 0, 0.6);
 .icon-info:hover{
   transform: scale(1.2);
 }
-
 .fa-facebook{
 padding-top: 7px;
 padding-left: 7px;
